@@ -1,0 +1,13 @@
+com\mycompany\deblasalejandro_pruebatec2\persistencia\ControladoraPersistencia.class
+com\mycompany\deblasalejandro_pruebatec2\servlets\TurnoSv.class
+com\mycompany\deblasalejandro_pruebatec2\logica\Turno.class
+com\mycompany\deblasalejandro_pruebatec2\servlets\CiudadanoSv.class
+com\mycompany\deblasalejandro_pruebatec2\persistencia\exceptions\NonexistentEntityException.class
+com\mycompany\deblasalejandro_pruebatec2\logica\Controladora.class
+com\mycompany\deblasalejandro_pruebatec2\resources\JakartaEE8Resource.class
+com\mycompany\deblasalejandro_pruebatec2\persistencia\CiudadanoJpaController.class
+com\mycompany\deblasalejandro_pruebatec2\JakartaRestConfiguration.class
+com\mycompany\deblasalejandro_pruebatec2\persistencia\exceptions\PreexistingEntityException.class
+com\mycompany\deblasalejandro_pruebatec2\logica\Ciudadano.class
+com\mycompany\deblasalejandro_pruebatec2\persistencia\exceptions\IllegalOrphanException.class
+com\mycompany\deblasalejandro_pruebatec2\persistencia\TurnoJpaController.class
